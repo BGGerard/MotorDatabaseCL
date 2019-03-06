@@ -1,0 +1,304 @@
+# depslib dependency file v1.0
+1520882405 source:c:\users\justm\desktop\db_cli\block.cpp
+	"block.h"
+
+1520839238 c:\users\justm\desktop\db_cli\block.h
+	"datafile.h"
+	"field.h"
+	"tools.h"
+	<vector>
+
+1520440923 source:c:\users\justm\desktop\db_cli\datafile.cpp
+	"datafile.h"
+
+1520193063 c:\users\justm\desktop\db_cli\datafile.h
+	<stdio.h>
+	<string.h>
+	<iostream>
+
+1520893869 source:c:\users\justm\desktop\db_cli\dbmanager.cpp
+	"dbmanager.h"
+
+1520885615 c:\users\justm\desktop\db_cli\dbmanager.h
+	<windows.h>
+	"masterblock.h"
+	"tools.h"
+	<vector>
+	"datafile.h"
+	<fstream>
+	<utility>
+	"table.h"
+	"datafile.h"
+	"masterblock.h"
+	"block.h"
+	"recordblock.h"
+	<sstream>
+	<string>
+	<stdlib.h>
+	<algorithm>
+
+1520458327 c:\users\justm\desktop\db_cli\masterblock.h
+	"datafile.h"
+	"table.h"
+	<vector>
+
+1520869283 c:\users\justm\desktop\db_cli\tools.h
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+
+1520895894 source:c:\users\justm\desktop\db_cli\main.cpp
+	<iostream>
+	"dbmanager.h"
+	<utility>
+	"cli.h"
+	"tools.h"
+
+1520840434 source:c:\users\justm\desktop\db_cli\masterblock.cpp
+	"masterblock.h"
+
+1520192735 source:c:\users\justm\desktop\db_cli\tools.cpp
+	"tools.h"
+
+1520843380 source:c:\users\justm\desktop\db_cli\table.cpp
+	"table.h"
+
+1520737971 c:\users\justm\desktop\db_cli\table.h
+	<stdio.h>
+	<string.h>
+	"vector"
+	"datafile.h"
+	"field.h"
+	"block.h"
+
+1520457225 c:\users\justm\desktop\db_cli\field.h
+	"tools.h"
+
+1520842920 source:c:\users\justm\desktop\db_cli\field.cpp
+	"field.h"
+
+1520732534 source:c:\users\justm\desktop\db_cli\record.cpp
+	"record.h"
+
+1520732521 c:\users\justm\desktop\db_cli\record.h
+
+1520883917 c:\users\justm\desktop\db_cli\recordblock.h
+	"datafile.h"
+	"tools.h"
+	<vector>
+
+1520883843 source:c:\users\justm\desktop\db_cli\recordblock.cpp
+	"recordblock.h"
+
+1520887250 source:c:\users\justm\desktop\db_cli\cli.cpp
+	"cli.h"
+
+1520885288 c:\users\justm\desktop\db_cli\cli.h
+	<iostream>
+	"dbmanager.h"
+	<utility>
+	"table.h"
+
+1520882405 source:c:\users\justm\onedrive\documentos\unitec\q1_2018\teoria de bases de datos ii\db_cli\block.cpp
+	"block.h"
+
+1520839238 c:\users\justm\onedrive\documentos\unitec\q1_2018\teoria de bases de datos ii\db_cli\block.h
+	"datafile.h"
+	"field.h"
+	"tools.h"
+	<vector>
+
+1520193063 c:\users\justm\onedrive\documentos\unitec\q1_2018\teoria de bases de datos ii\db_cli\datafile.h
+	<stdio.h>
+	<string.h>
+	<iostream>
+
+1520457225 c:\users\justm\onedrive\documentos\unitec\q1_2018\teoria de bases de datos ii\db_cli\field.h
+	"tools.h"
+
+1520869283 c:\users\justm\onedrive\documentos\unitec\q1_2018\teoria de bases de datos ii\db_cli\tools.h
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+
+1520887250 source:c:\users\justm\onedrive\documentos\unitec\q1_2018\teoria de bases de datos ii\db_cli\cli.cpp
+	"cli.h"
+
+1520885288 c:\users\justm\onedrive\documentos\unitec\q1_2018\teoria de bases de datos ii\db_cli\cli.h
+	<iostream>
+	"dbmanager.h"
+	<utility>
+	"table.h"
+
+1520885615 c:\users\justm\onedrive\documentos\unitec\q1_2018\teoria de bases de datos ii\db_cli\dbmanager.h
+	<windows.h>
+	"masterblock.h"
+	"tools.h"
+	<vector>
+	"datafile.h"
+	<fstream>
+	<utility>
+	"table.h"
+	"datafile.h"
+	"masterblock.h"
+	"block.h"
+	"recordblock.h"
+	<sstream>
+	<string>
+	<stdlib.h>
+	<algorithm>
+
+1520458327 c:\users\justm\onedrive\documentos\unitec\q1_2018\teoria de bases de datos ii\db_cli\masterblock.h
+	"datafile.h"
+	"table.h"
+	<vector>
+
+1520737971 c:\users\justm\onedrive\documentos\unitec\q1_2018\teoria de bases de datos ii\db_cli\table.h
+	<stdio.h>
+	<string.h>
+	"vector"
+	"datafile.h"
+	"field.h"
+	"block.h"
+
+1520883917 c:\users\justm\onedrive\documentos\unitec\q1_2018\teoria de bases de datos ii\db_cli\recordblock.h
+	"datafile.h"
+	"tools.h"
+	<vector>
+
+1520440923 source:c:\users\justm\onedrive\documentos\unitec\q1_2018\teoria de bases de datos ii\db_cli\datafile.cpp
+	"datafile.h"
+
+1520893869 source:c:\users\justm\onedrive\documentos\unitec\q1_2018\teoria de bases de datos ii\db_cli\dbmanager.cpp
+	"dbmanager.h"
+
+1520842920 source:c:\users\justm\onedrive\documentos\unitec\q1_2018\teoria de bases de datos ii\db_cli\field.cpp
+	"field.h"
+
+1551301038 source:c:\users\justm\onedrive\documentos\unitec\q1_2018\teoria de bases de datos ii\db_cli\main.cpp
+	<iostream>
+	"dbmanager.h"
+	<utility>
+	"cli.h"
+	"tools.h"
+
+1520840434 source:c:\users\justm\onedrive\documentos\unitec\q1_2018\teoria de bases de datos ii\db_cli\masterblock.cpp
+	"masterblock.h"
+
+1520732534 source:c:\users\justm\onedrive\documentos\unitec\q1_2018\teoria de bases de datos ii\db_cli\record.cpp
+	"record.h"
+
+1520732521 c:\users\justm\onedrive\documentos\unitec\q1_2018\teoria de bases de datos ii\db_cli\record.h
+
+1520883843 source:c:\users\justm\onedrive\documentos\unitec\q1_2018\teoria de bases de datos ii\db_cli\recordblock.cpp
+	"recordblock.h"
+
+1520843380 source:c:\users\justm\onedrive\documentos\unitec\q1_2018\teoria de bases de datos ii\db_cli\table.cpp
+	"table.h"
+
+1520192735 source:c:\users\justm\onedrive\documentos\unitec\q1_2018\teoria de bases de datos ii\db_cli\tools.cpp
+	"tools.h"
+
+1520882405 source:c:\users\bgera\documents\unitec\q1 2019\teoria de bases de datos 2\db_cli\block.cpp
+	"block.h"
+
+1520839238 c:\users\bgera\documents\unitec\q1 2019\teoria de bases de datos 2\db_cli\block.h
+	"datafile.h"
+	"field.h"
+	"tools.h"
+	<vector>
+
+1520193063 c:\users\bgera\documents\unitec\q1 2019\teoria de bases de datos 2\db_cli\datafile.h
+	<stdio.h>
+	<string.h>
+	<iostream>
+
+1520457225 c:\users\bgera\documents\unitec\q1 2019\teoria de bases de datos 2\db_cli\field.h
+	"tools.h"
+
+1520869283 c:\users\bgera\documents\unitec\q1 2019\teoria de bases de datos 2\db_cli\tools.h
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+
+1551749454 source:c:\users\bgera\documents\unitec\q1 2019\teoria de bases de datos 2\db_cli\cli.cpp
+	"cli.h"
+
+1520885288 c:\users\bgera\documents\unitec\q1 2019\teoria de bases de datos 2\db_cli\cli.h
+	<iostream>
+	"dbmanager.h"
+	<utility>
+	"table.h"
+
+1551749447 c:\users\bgera\documents\unitec\q1 2019\teoria de bases de datos 2\db_cli\dbmanager.h
+	<windows.h>
+	"masterblock.h"
+	"tools.h"
+	<vector>
+	"datafile.h"
+	<fstream>
+	<utility>
+	"table.h"
+	"datafile.h"
+	"masterblock.h"
+	"block.h"
+	"recordblock.h"
+	<sstream>
+	<string>
+	<stdlib.h>
+	<algorithm>
+
+1520458327 c:\users\bgera\documents\unitec\q1 2019\teoria de bases de datos 2\db_cli\masterblock.h
+	"datafile.h"
+	"table.h"
+	<vector>
+
+1520737971 c:\users\bgera\documents\unitec\q1 2019\teoria de bases de datos 2\db_cli\table.h
+	<stdio.h>
+	<string.h>
+	"vector"
+	"datafile.h"
+	"field.h"
+	"block.h"
+
+1520883917 c:\users\bgera\documents\unitec\q1 2019\teoria de bases de datos 2\db_cli\recordblock.h
+	"datafile.h"
+	"tools.h"
+	<vector>
+
+1520440923 source:c:\users\bgera\documents\unitec\q1 2019\teoria de bases de datos 2\db_cli\datafile.cpp
+	"datafile.h"
+
+1520893869 source:c:\users\bgera\documents\unitec\q1 2019\teoria de bases de datos 2\db_cli\dbmanager.cpp
+	"dbmanager.h"
+
+1520842920 source:c:\users\bgera\documents\unitec\q1 2019\teoria de bases de datos 2\db_cli\field.cpp
+	"field.h"
+
+1551749473 source:c:\users\bgera\documents\unitec\q1 2019\teoria de bases de datos 2\db_cli\main.cpp
+	<iostream>
+	"dbmanager.h"
+	<utility>
+	"cli.h"
+	"tools.h"
+
+1520840434 source:c:\users\bgera\documents\unitec\q1 2019\teoria de bases de datos 2\db_cli\masterblock.cpp
+	"masterblock.h"
+
+1520732534 source:c:\users\bgera\documents\unitec\q1 2019\teoria de bases de datos 2\db_cli\record.cpp
+	"record.h"
+
+1520732521 c:\users\bgera\documents\unitec\q1 2019\teoria de bases de datos 2\db_cli\record.h
+
+1520883843 source:c:\users\bgera\documents\unitec\q1 2019\teoria de bases de datos 2\db_cli\recordblock.cpp
+	"recordblock.h"
+
+1520843380 source:c:\users\bgera\documents\unitec\q1 2019\teoria de bases de datos 2\db_cli\table.cpp
+	"table.h"
+
+1520192735 source:c:\users\bgera\documents\unitec\q1 2019\teoria de bases de datos 2\db_cli\tools.cpp
+	"tools.h"
+

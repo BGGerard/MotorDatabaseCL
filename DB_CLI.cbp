@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="DB_CLI" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/DB_CLI" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/DB_CLI" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="block.cpp" />
+		<Unit filename="block.h" />
+		<Unit filename="cli.cpp" />
+		<Unit filename="cli.h" />
+		<Unit filename="datafile.cpp" />
+		<Unit filename="datafile.h" />
+		<Unit filename="dbmanager.cpp" />
+		<Unit filename="dbmanager.h" />
+		<Unit filename="field.cpp" />
+		<Unit filename="field.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="masterblock.cpp" />
+		<Unit filename="masterblock.h" />
+		<Unit filename="record.cpp" />
+		<Unit filename="record.h" />
+		<Unit filename="recordblock.cpp" />
+		<Unit filename="recordblock.h" />
+		<Unit filename="table.cpp" />
+		<Unit filename="table.h" />
+		<Unit filename="tools.cpp" />
+		<Unit filename="tools.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
